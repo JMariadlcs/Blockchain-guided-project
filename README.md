@@ -34,8 +34,11 @@ Tarea 5: Probando nuestra aplicación
 
 # Run
 Open Blockchain file
+
 Shitf + right mouse
+
 Open Windows PowerShell
+
 Execute on Windows PowersShell: node blockchain.js
 
 # [Course Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/MYFUMHV87BYH)

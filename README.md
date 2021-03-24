@@ -1,5 +1,5 @@
-# Programando un blockchain básico con JavasSript
 # Blockchain Basic programming using JavaScript
+# Programando un blockchain básico con JavasSript
 
 Blockchain guided project where I programmed my own blockchain definning the blocks structure, the consensus protocol (proof of work) and the blockchain itself
 

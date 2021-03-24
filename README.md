@@ -33,7 +33,10 @@ Tarea 4: Programando la cadena de bloques
 Tarea 5: Probando nuestra aplicación
 
 # Run
-Execute on windows cmd: node blockchain.js
+Open Blockchain file
+Shitf + right mouse
+Open Windows PowerShell
+Execute on Windows PowersShell: node blockchain.js
 
 # [Course Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/MYFUMHV87BYH)
 

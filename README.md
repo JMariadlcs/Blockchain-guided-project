@@ -1,10 +1,10 @@
-#Programando un blockchain básico con JavasSript
-#Blockchain Basic programming using JavaScript
+# Programando un blockchain básico con JavasSript
+# Blockchain Basic programming using JavaScript
 
 Blockchain guided project where I programmed my own blockchain definning the blocks structure, the consensus protocol (proof of work) and the blockchain itself
 
 
-#Project description
+# Project description
 Objetivos del curso
 En este curso, nos centraremos en dos objetivos de aprendizaje:
 
@@ -32,7 +32,7 @@ Tarea 3: Definiendo y programando un bloque - parte 2
 Tarea 4: Programando la cadena de bloques
 Tarea 5: Probando nuestra aplicación
 
-#Run
+# Run
 Execute on windows cmd: node blockchain.js
 
 # [Course Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/MYFUMHV87BYH)

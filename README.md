@@ -6,31 +6,26 @@ Blockchain guided project where I programmed my own blockchain definning the blo
 
 # Project description
 Objetivos del curso
-En este curso, nos centraremos en dos objetivos de aprendizaje:
+In this course, we will focus on two learning objectives:
 
-Diseñar un blockchain con Javascript.
-Entender los conceptos básicos de un blockchain.
-Al final de este proyecto, tú podrás comprender cómo funcionan las cadenas de bloques para luego trabajar sobre ellas.
+Design a blockchain with Javascript.
+Understand the basic concepts of a blockchain.
+At the end of this project, you will be able to understand how blockchains work and then work on them.
 
-Requisitos del curso
-El único requisito es tener conocimientos básicos en Javascript.
+Course structure
+This course is divided into 3 parts:
 
-No hay requisito previo alguno de nuevos recursos. Todo será ejecutado desde la propia máquina
+Course Summary: This introductory material to read.
+Programming a basic blockchain with Javascript: This is a project that we will do in a practical way through the Rhyme platform.
+Qualified questionnaire: This is your final assignment to be able to finish this course.
+Project structure
+The practical project of Programming a basic blockchain with Javascript is divided into the following tasks:
 
-Estructura del curso
-Este curso está dividido en 3 partes:
-
-Resumen del curso: Este material introductorio para leer.
-Programando un blockchain básico con Javascript: Este es un proyecto en cual haremos de forma práctica a través de la plataforma Rhyme.
-Cuestionario calificado: Esta es tu tarea final para poder finalizar este curso.
-Estructura del proyecto
-El proyecto práctico de Programando un blockchain básico con Javascript se divide en las siguientes tareas:
-
-Tarea 1: Introducción al blockchain
-Tarea 2: Definiendo y programando un bloque - parte 1
-Tarea 3: Definiendo y programando un bloque - parte 2
-Tarea 4: Programando la cadena de bloques
-Tarea 5: Probando nuestra aplicación
+Task 1: Introduction to the blockchain
+Task 2: Defining and programming a block - part 1
+Task 3: Defining and programming a block - part 2
+Task 4: Programming the blockchain
+Task 5: Testing our application
 
 # Run
 Open Blockchain file

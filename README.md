@@ -4,7 +4,7 @@ Blockchain guided project where I programmed my own blockchain definning the blo
 
 
 # Project description
-Objetivos del curso
+Course objetives:
 In this course, we will focus on two learning objectives:
 
 Design a blockchain with Javascript.

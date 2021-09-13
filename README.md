@@ -1,6 +1,6 @@
 # Blockchain Basic programming using JavaScript
 
-Blockchain guided project where I programmed my own blockchain definning the blocks structure, the consensus protocol (proof of work) and the blockchain itself
+Blockchain guided project where I programmed my very first own blockchain designing a simple blockchain structure that contains its blocks structure, the consensus protocol, and some others blockchain features.
 
 
 # Project description
